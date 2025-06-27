@@ -1,8 +1,0 @@
-torch>=1.11.0
-ultralytics>=8.0.0
-opencv-python
-filterpy
-lap
-sort-tracker-py
-scikit-image
-numpy
